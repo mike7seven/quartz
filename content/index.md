@@ -1,11 +1,11 @@
 ---
-title: Mike Seven
-description: Developer & Creator
+title: Mike7Seven
+permalink: /
 ---
 
-# Welcome! 👋
+# Welcome!
 
-I'm Mike Seven - a developer, creator, and problem solver. I build technology that matters with a focus on turning novel ideas into real world impact.
+I'm Mike Weihrouch - an inventor, creator, and problem solver. I build technology that matters with a focus on turning novel ideas into real world impact.
 
 ## About Me
 I invent & build technology that matters with a focus on turning novel ideas into real world impact. Here I explore the possibilities & challenges of innovation, share insights from building new technology, and examine where tech is taking us next.
